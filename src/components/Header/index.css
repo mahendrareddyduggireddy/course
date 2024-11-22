@@ -1,0 +1,8 @@
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 7px;
+  background-color: skyblue;
+  width: 100vw;
+}
